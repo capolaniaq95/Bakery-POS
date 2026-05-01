@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+playwright/
+
+# Environment variables and secrets
+.env
+*.env
+credentials.env
+
+# Project data (generated files)
+data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Playwright browsers
+.cache/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
